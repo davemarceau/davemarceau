@@ -17,6 +17,11 @@ I am thrilled to join the development community.
     <a href="https://www.microsoft.com/en-ca/sql-server" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" alt="mssql" width="40" height="40"/> </a>
 </p>
 
+<h3 align="center">Learning:</h3>
+<p align="center">
+    <a href="https://www.w3schools.com/cs/index.php" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="mssql" width="40" height="40"/> </a>
+</p>
+
 - 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/davemarceau/).
 
 <!---
